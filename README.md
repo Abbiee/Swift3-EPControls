@@ -26,6 +26,8 @@ For choosing or taking photo
     
     For implementing alert view
     
+    
+    
    
         
         
@@ -37,6 +39,9 @@ For choosing or taking photo
     
     For implementing mail composer
     
+    
+    
+    
    
         EPControls.sharedInstance.openMailComposerInViewController(["naveen.rana@appster.in"], viewcontroller: self) { (result, error) in
             print(result)
@@ -45,6 +50,8 @@ For choosing or taking photo
     
     
     For implementing alert text field
+    
+    
     
    
         
